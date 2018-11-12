@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_00862713599903ebfdd56516c4e4715f77aa84ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_00fa599ddcba2f19ee945452e6770e2912252f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0bac28bc377c3acdfb67c3c5f646211741ccba0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_874bf508ba0f05ed56824c1a1cf8dbf4c6cda51b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-background-timer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37a5cc67cbd4e1ecbfd53e148c7e19ad1254d5d8">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-background-timer-unspecified_0ce4e24a298db25f4bb4e162f6c45f84f63789a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_cdf1656a6df52196d2d83287ba27eab360bcff14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7494ddbba83056ba5ad7a119bd828d50cb776751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_aef0809c20e32593c9627d9ba14fb4d7872f387e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5020a9f7e0cb368346cee6dee07f3a6445ccc27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_72d7f6e5fac66f75dd9ca5311a1628867acf6ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_8d4dbe4e429fe140a9ecd84793b2bab97db3858c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_32bdac451ba82b240871534be222b20ad5e8262b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_8db98c0604217dbe219b9a50e24c051ae884a116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b87588241f5fefe90f7dde2ac4f1df0da58fa0eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-randombytes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="370e587b38f784c383ecef617088104a5486bdb3">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-randombytes-unspecified_731e7fe57954158d5e278a49c816fad6fec2b87d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/exifinterface/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-exifinterface-27.1.0_a95445c75c3f502dd86af44897ce3731a2ace82c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="127359a6f59c3a88f1c15cb73a71ce24602f4f10">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-i18n-unspecified_446b6be23fe21dd55b59e3d7e516fe0a333619af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_950dbb8d5e8a4af10bf23c4231dc90df61aab072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5a0f010d8429fa087ba3ce882cd24af9027868a">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-16.0.0_5539e3f45c859133b657fd629ff340881da4a4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_eb29ba82c906d1a6342e9bd7b205821d3d66ebe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_1e5b039f54a92f49745151ad9ef530a798ee7d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_06088a9bbe0ba95d1d794469cc1421cebb5cb35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_49c2da6bb9c82a4ce7556c6926a6ac6e36989c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-16.0.1_b6777b8d3055091b23996beb1615cf7aeb72a6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b9f57b1fb76487516b73b908f54c60c48202d84">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-16.0.1_25d4aea4d74fb62665eed1720c2aa374e6976cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_d71a9828b2441ea6d42d075d51a042654cec72eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85c816859f3f8ea884d5e6e0a8f5ea1df7023d3a">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-device-info-unspecified_871735c93e1a05673b00ca0457c3553926ac8f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6eb817bfc6870b2735cf415acc5db678d1c00d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_16874d4a40f1e6b253d7b584eab9e0b78833fd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_348f2b7d8bf30da5a072d3e7f2eac3a62a9f2eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_db9b57a2a4a5e72dfe19e65719e88db6d05afeee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cfafe4b11303ac453e51c1dcec8940315192dc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.wei.android.lib/fingerprintidentify/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3223701b85e0fb3ded756e21805dc0b721930b9">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.wei.android.lib-fingerprintidentify-1.1.4_8567b2ea7ed8f2beda0f067819be030fe05b7dbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-stats/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a08c6dadfd96a281d9fddf59a767749e43064c23">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-stats-16.0.1_e7045243c3ee3e05493b517862c55f1483c63556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.wei.android.lib/fingerprintidentify/1.1.4/jars/libs/MeiZu_Fingerprint.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f46143576662cb48b81028d3d6c424abb4f2fa8e">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/MeiZu_Fingerprint_6c352096f2eea3c67495db6a16fa91eecccadd2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9abdef6b3ea9a6d226f4ef13198d24e32f33ea4d">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-16.0.0_8ca83094118e633848e39fa241717a2e6ddc5177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36bf1a03f7ded80a7d61992cff92180ae4fcae72">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-camera-unspecified_31bcbe5e3e970d409a2e398bde211de6db796d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.0_300e76a6f4e2c9e7a86092aad6ae64e1ee04edbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d47e92fd650b74b97b3eb83814d313c392f4d3ad">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-svg-unspecified_0d6d86507c2414a1b106bef8797c40d0ee7ed665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_3650d1d5cd3a9e97409f447dd9c0203dd57aa29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-fingerprint-scanner/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a19be032d8f705d1df8cfe7f3477dbb197649046">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-fingerprint-scanner-unspecified_00a7ff3917d1d22f96c9e0fc0e1881ad4322dcfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_45e0d2882baf2b3242da205cbce3e61a4d31a346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_ef92bd6d9c2e4a2838f1a5f12965fdaf3108095b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_f4a1ae77376fa6915ac241c216345323596ae23f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a143f800dbb448450ea9bd728cc3ff5fe7d0e6">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-spinkit-unspecified_05d997c0517704da169c99da635bbea4e97dff1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/d529251d24c0a367a28eea28f0eac2269d12f772/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e64d3bd4020c2600a42923c3b493bbb2e81f1211">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-d529251d24c0a367a28eea28f0eac2269d12f772_d47baf00be535e352cc596aba513e11a15e044b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_bbe83036f8da7bc96298efede640116c5588a387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dc548cfd5edba58b8639fb9bd160fdb374115b6">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-linear-gradient-unspecified_257f29d388d7d6326ed074fad37c5160cac56f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_ab0b85020cb380667034372cd0af19f5e8c5b05a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.2.0_4ee7bdc54110f89578f3f00cfa8fb40b22353725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_62ca6b7ca262f25e928feddcb75d1b3d419d5930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_5044a891ef5560109a457761bcbf33ba46cd019f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/16.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d0ff1960f148dafff5b945e8596c060ff3cf88e">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-16.0.1_e55eba4a0ad24e8c94e564b602b0d06f492c598b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.wei.android.lib/fingerprintidentify/1.1.4/jars/libs/Samsung_Fingerprint_Pass-v1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df6e3f2451f67cfdc3a1651c90dfc1f04f7469e9">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/Samsung_Fingerprint_Pass-v1.2.2_a649aca1c2eb505bab92f976f7530e7a18f2dadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.wei.android.lib/fingerprintidentify/1.1.4/jars/libs/Samsung_Fingerprint_Sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94b565debcd2cad5a6d480e1d6e33d8605e2d6fc">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/Samsung_Fingerprint_Sdk-v1.0.0_ab0aaa5902c923068c658aa1fc4b70ffc6a73c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/NAMPay/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/NAMPay-react-native-vector-icons-unspecified_a6fb59d759e171947f713c666e37724f86818ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1792a976be062b022df38de6f59e0840c3d1af24.jar" />
+    </item>
+
+</items>

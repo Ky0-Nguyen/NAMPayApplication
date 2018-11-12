@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tuan-nguyen/Desktop/FHProject/NAMPAY_JS/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h
