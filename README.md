@@ -2,16 +2,16 @@
 
 An application for Cryptocurrency Wallet
 
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/2.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/3.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/4.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/5.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/6.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/7.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/8.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/9.png" width="50" height="200"/>
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/10.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/2.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/3.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/4.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/5.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/6.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/7.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/8.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/9.png" width="200" height="500"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/10.png" width="200" height="500"/>
 
 ## Enviroment
 
