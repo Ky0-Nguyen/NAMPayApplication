@@ -79,4 +79,3 @@ npm start -> start sever of react-native
 IOS: build with xcode 
 ANDROID:  build with Android Studio or command code 
 
-# CPO_Application
