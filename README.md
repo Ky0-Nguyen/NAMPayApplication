@@ -2,7 +2,7 @@
 
 An application for Cryptocurrency Wallet
 
-<image  src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png" style={{width: 100, height: 500}}/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png"/>
 
 ![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/2.png)
 
