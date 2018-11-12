@@ -2,26 +2,16 @@
 
 An application for Cryptocurrency Wallet
 
-<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png"/>
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/2.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/3.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/4.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/5.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/6.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/7.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/8.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/9.png)
-
-![alt text] (https://bitbucket.org/famhoppervn/fhwallet-_mobileapp_javascript/raw/d41e7ec61d1f0514e6c89164e85e9c7faf453524/ImageApplication/10.png)
-
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/1.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/2.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/3.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/4.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/5.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/6.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/7.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/8.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/9.png" width="50" height="200"/>
+<img src="https://github.com/thienthanmeo/NAMPayApplication/blob/master/ImageApplication/10.png" width="50" height="200"/>
 
 ## Enviroment
 
